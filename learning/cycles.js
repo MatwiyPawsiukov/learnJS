@@ -101,7 +101,7 @@ for(leters of text){
 
 let people = ["Matwiy", "Sergiy", "Stas", 2]
 
-for(persons of people){
+for(persons of people){hf
     console.log(persons);
     
 }
