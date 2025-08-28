@@ -54,11 +54,11 @@ console.log(tom.name);
 console.log(tom.company.title);
 */
 
-const tom =  {name: "tom", age: 37, company: "Goooooogle"}
+/*const tom =  {name: "tom", age: 37, company: "Goooooogle"}
 const bob = {...tom}
 bob.name = "bob"
 
 console.log(tom);
 console.log(bob);
-
+*/
 
